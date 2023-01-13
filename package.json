@@ -1,0 +1,23 @@
+{
+  "name": "ts-challenges",
+  "version": "1.0.0",
+  "description": "Solutions to https://github.com/type-challenges/type-challenges/tree/main/questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhsinkamil/ts-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhsinkamil/ts-challenges/issues"
+  },
+  "homepage": "https://github.com/muhsinkamil/ts-challenges#readme",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
